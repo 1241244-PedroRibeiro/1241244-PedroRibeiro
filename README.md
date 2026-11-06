@@ -117,11 +117,15 @@ Clean/Onion back-end for restaurant order management (ISEP LAPR5 / ARQSI). NestJ
 
 ---
 
-### 📊 GitHub in numbers
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1241244-PedroRibeiro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&v=2" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1241244-PedroRibeiro&layout=compact&hide_border=true&langs_count=8&count_private=true&theme=transparent&v=2" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1241244-PedroRibeiro&show_icons=true&theme=tokyonight&hide_border=true&v=3" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1241244-PedroRibeiro&layout=compact&theme=tokyonight&hide_border=true&v=3" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=1241244-PedroRibeiro&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
